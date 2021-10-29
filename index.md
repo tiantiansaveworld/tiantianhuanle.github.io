@@ -5,17 +5,17 @@
      <h1>曾德天</h1>
      <div>
          <span>
-             <img src="assets/phone-solid.svg" width="18px">
+             <img src="phone-solid.svg" width="18px">
              18974967590
          </span>
          ·
          <span>
-             <img src="assets/envelope-solid.svg" width="18px">
+             <img src="envelope-solid.svg" width="18px">
              zengdetian@nudt.edu.com
          </span>
          ·
          <span>
-             <img src="assets/github-brands.svg" width="18px">
+             <img src="github-brands.svg" width="18px">
              <a href="https://github.com/CyC2018">CyC2018</a>
          </span>
          ·
