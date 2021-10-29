@@ -16,7 +16,7 @@
          ·
          <span>
              <img src="github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
+             <a href="https://github.com/tiantianhuanle">CyC2018</a>
          </span>
          ·
          <span>
