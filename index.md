@@ -65,7 +65,7 @@
 - 曾德天，曾增日，詹俊. 基于深度强化学习种群优化的演化式作业调度算法.(2021，计算机应用研究，已录用)(CCF中文C类)	
 - Evolutionary Job Scheduling with Optimized Population by Deep Reinforcement Learning,(2021,Engineering optimization,Zeng D, Zhan J, Peng W and Zeng Z,major revision)（SCI）
 - Deep evolutionary algorithm for large-scale sequence optimization(ICIEA 2022,Zeng D,Miao Q,under review)（SCI,EI共同检索）
-- A Fast and Accurate Calculation Framework for Lung Cancer Diagnosis with PET Image,(2021,Medical Physics,Zeng D, Guan P, Tan Y, Jia W,under review)（SCI）
+<!-- - A Fast and Accurate Calculation Framework for Lung Cancer Diagnosis with PET Image,(2021,Medical Physics,Zeng D, Guan P, Tan Y, Jia W,under review)（SCI） -->
 
 
 
