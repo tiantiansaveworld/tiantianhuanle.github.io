@@ -39,9 +39,9 @@
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+- **湖南蚁坊软件公司，大数据研究院，研究员，2018.5~2019.12**
 
-   负责 XXX
+   1.负责追踪NLP业界前沿技术动态；2.使用机器学习对亿级规模文本进行分类处理；3.国内主流社交平台验证码自动识别；
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
@@ -61,10 +61,6 @@
 - ★☆☆ RabbitMQ、ZooKeeper
 - ★★☆ JavaScript
 
-
-You can use the [editor on GitHub](https://github.com/tiantianhuanle/tiantianhuanle.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -88,12 +84,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tiantianhuanle/tiantianhuanle.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
