@@ -37,21 +37,20 @@
 - 硕士，中南大学，信息与通信工程，2015.9~2018.7
 - 学士，广西大学，电子信息工程，2011.9~2015.7
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+## <img src="briefcase-solid.svg" width="30px"> 工作经历
 
 - **湖南蚁坊软件公司，大数据研究院，研究员，2018.5~2019.12**
 
    1.负责追踪NLP业界前沿技术动态；2.使用机器学习对亿级规模文本进行分类处理；3.国内主流社交平台验证码自动识别；
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+## <img src="project-diagram-solid.svg" width="30px"> 项目经历
 
-- **XXXX 项目**
+- **2020工信部重点研发项目-三一集团灯塔工程**
+◎ 重工行业全球首条零件智能抓取及码垛产线；
+◎ 负责零件的定位识别及抓取，定位准确率达99.6%；
+◎ 以第一完成人申请发明专利四项，结题等级“优秀”；
 
-  *使用到的技术*
-
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
-
-## <img src="assets/tools-solid.svg" width="30px"> 学术成果
+## <img src="tools-solid.svg" width="30px"> 学术成果
 
 - 邓晓衡, 曾德天. 基于 AHP 和混合 Apriori-Genetic 算法的交通事故成因分析模型[J]. 计算机应用研究, 2019, 6.(CCF中文C类)	
 - Deng X, Zeng D, Shen H. Causation analysis model: Based on AHP and hybrid Apriori-Genetic algorithm[J]. Journal of Intelligent & Fuzzy Systems, 2018, 35(1): 767-778.（SCI）
