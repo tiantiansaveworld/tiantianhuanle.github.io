@@ -26,7 +26,7 @@
      </div>
  </center>
 
- ## <img src="info-circle-solid.svg" width="30px"> 个人信息 
+## <img src="info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，1993 年出生
  - 研究方向：组合优化，强化学习，机器学习
