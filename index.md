@@ -20,19 +20,19 @@
          </span>
          ·
          <span>
-             <img src="assets/rss-solid.svg" width="18px">
+             <img src="rss-solid.svg" width="18px">
              <a href="#">My Blog</a>
          </span>
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+ ## <img src="info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，1993 年出生
  - 研究方向：组合优化，强化学习，机器学习
  - 获得证书：计算机网络四级等级证书，CCF软件考试中级软件设计师，CET6 英语等级考试；
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
+## <img src="graduation-cap-solid.svg" width="30px"> 教育经历
 - 博士，国防科技大学，网络空间安全专业，2020.5~至今
 - 硕士，中南大学，信息与通信工程，2015.9~2018.7
 - 学士，广西大学，电子信息工程，2011.9~2015.7
@@ -51,36 +51,15 @@
 
   使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+## <img src="assets/tools-solid.svg" width="30px"> 学术成果
 
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+- 邓晓衡, 曾德天. 基于 AHP 和混合 Apriori-Genetic 算法的交通事故成因分析模型[J]. 计算机应用研究, 2019, 6.(CCF中文C类)	
+- Deng X, Zeng D, Shen H. Causation analysis model: Based on AHP and hybrid Apriori-Genetic algorithm[J]. Journal of Intelligent & Fuzzy Systems, 2018, 35(1): 767-778.（SCI）
+- Zeng D, Shi J, Zhan J, et al. A fast and global search method for grasping pose optimization in manufacturing[J]. Journal of Intelligent & Fuzzy Systems, 2021 (Preprint): 1-14.（SCI）
+- 曾德天，曾增日，詹俊. 基于深度强化学习种群优化的演化式作业调度算法.(2021，计算机应用研究，已录用)(CCF中文C类)	
+- Evolutionary Job Scheduling with Optimized Population by Deep Reinforcement Learning,(2021,Engineering optimization,Zeng D, Zhan J, Peng W and Zeng Z,major revision)（SCI）
+- Deep evolutionary algorithm for large-scale sequence optimization(ICIEA 2022,Zeng D,Miao Q,under review)（SCI,EI共同检索）
+- A Fast and Accurate Calculation Framework for Lung Cancer Diagnosis with PET Image,(2021,Medical Physics,Zeng D, Guan P, Tan Y, Jia W,under review)（SCI）
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
