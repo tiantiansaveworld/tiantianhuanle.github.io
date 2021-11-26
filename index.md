@@ -63,7 +63,7 @@
 - Deng X, Zeng D, Shen H. Causation analysis model: Based on AHP and hybrid Apriori-Genetic algorithm[J]. Journal of Intelligent & Fuzzy Systems, 2018, 35(1): 767-778.（SCI）
 - Zeng D, Shi J, Zhan J, et al. A fast and global search method for grasping pose optimization in manufacturing[J]. Journal of Intelligent & Fuzzy Systems, 2021 (Preprint): 1-14.（SCI）
 - 曾德天，曾增日，詹俊. 基于深度强化学习种群优化的演化式作业调度算法[J]. 计算机应用研究, 2022, 4.已录用(CCF中文C类)	
-- Evolutionary Job Scheduling with Optimized Population by Deep Reinforcement Learning,(2021,Engineering optimization,Zeng D, Zhan J, Peng W and Zeng Z,major revision)（已接收）
+- Zeng D, Zhan J, Peng W and Zeng Z,Evolutionary Job Scheduling with Optimized Population by Deep Reinforcement Learning[J]. Engineering optimization, 2021 (已接收)（SCI）
 - Deep evolutionary algorithm for large-scale sequence optimization(ICIEA 2022,Zeng D,Miao Q,under review)（SCI,EI共同检索）
 
 
