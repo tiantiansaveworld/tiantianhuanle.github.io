@@ -33,7 +33,7 @@
  - 获得证书：计算机网络四级等级证书，CCF软件考试中级软件设计师，CET6等级证书；
 
 ## <img src="graduation-cap-solid.svg" width="30px"> 教育经历
-- 博士，国防科技大学，网络空间安全，2020.5~至今
+- 博士生，国防科技大学，网络空间安全，2020.5~至今
 - 硕士，中南大学，信息与通信工程，2015.9~2018.7
 - 学士，广西大学，电子信息工程，2011.9~2015.7
 
@@ -60,10 +60,10 @@
 ## <img src="tools-solid.svg" width="30px"> 学术成果
 
 - 邓晓衡, 曾德天. 基于AHP和混合Apriori-Genetic算法的交通事故成因分析模型[J]. 计算机应用研究, 2019, 36(06):1633-1638.(CCF中文C类)	
-- Deng X, Zeng D, Shen H. Causation analysis model: Based on AHP and hybrid Apriori-Genetic algorithm[J]. Journal of Intelligent & Fuzzy Systems, 2018, 35(1): 767-778.（SCI）
-- Zeng D, Shi J, Zhan J, et al. A fast and global search method for grasping pose optimization in manufacturing[J]. Journal of Intelligent & Fuzzy Systems, 2021 (Preprint): 1-14.（SCI）
+- Deng X, Zeng D, Shen H. Causation analysis model: Based on AHP and hybrid Apriori-Genetic algorithm[J]. Journal of Intelligent & Fuzzy Systems, 2018, 35(1): 767-778.（SCI三区，IF=1.8）
+- Zeng D, Shi J, Zhan J, et al. A fast and global search method for grasping pose optimization in manufacturing[J]. Journal of Intelligent & Fuzzy Systems, 2021 (Preprint): 1-14.（SCI三区，IF=1.8）
 - 曾德天，曾增日，詹俊. 基于深度强化学习种群优化的演化式作业调度算法[J]. 计算机应用研究, 2022, 4.已录用(CCF中文C类)	
-- Zeng D, Zhan J, Peng W and Zeng Z,Evolutionary Job Scheduling with Optimized Population by Deep Reinforcement Learning[J]. Engineering optimization, 2021 (已接收)（SCI）
+- Zeng D, Zhan J, Peng W and Zeng Z,Evolutionary Job Scheduling with Optimized Population by Deep Reinforcement Learning[J]. Engineering optimization, 2021.已录用（SCI二区，IF=3.2）
 - Deep evolutionary algorithm for large-scale sequence optimization(ICIEA 2022,Zeng D,Miao Q,under review)（SCI,EI共同检索）
 
 
