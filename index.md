@@ -65,7 +65,7 @@
 - 曾德天，曾增日，詹俊. 基于深度强化学习种群优化的演化式作业调度算法[J]. 计算机应用研究, 2022, 4.已录用(CCF中文C类)	
 - Zeng D, Zhan J, Peng W and Zeng Z,Evolutionary Job Scheduling with Optimized Population by Deep Reinforcement Learning[J]. Engineering optimization, 2021.已录用（SCI二区，IF=3.2）
 - Deep evolutionary algorithm for large-scale sequence optimization(ICIEA 2022,Zeng D,Miao Q,已接收)（EI检索）
-
+- Zeng D, Peng W, Zeng Z and Yan T, A self-learning GA based on DQN for solving travelling salesman problem(Neural Computing and Applications, with editor)（SCI一区，IF=5.6，CCF英文C类）
 
 
 
