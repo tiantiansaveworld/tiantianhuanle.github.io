@@ -67,5 +67,13 @@
 - Deep evolutionary algorithm for large-scale sequence optimization(ICIEA 2022,Zeng D,Miao Q,已接收)（EI检索）
 - Zeng D, Peng W, Zeng Z and Yan T, A self-learning GA based on DQN for solving travelling salesman problem(Neural Computing and Applications, with editor)（SCI一区，IF=5.6，CCF英文C类）
 
+## <img src="tools-solid.svg" width="30px"> 发明专利
 
+- 零件抓取数据处理方法和装置 - 202011133013.8 有权 （第一完成人）
+
+- 工件及其抓取方法和生产线 - 202010484931.9 审中-实审 （第一完成人）
+
+- 钢板角点与边点定位方法和工件抓取方法及生产线 - 202010486614.0 审中-实审 （第一完成人）
+
+- 基于深度强化学习的演化式分拣作业调度方法及系统 - 202111081728.8 审中-实审 （第一完成人）
 
