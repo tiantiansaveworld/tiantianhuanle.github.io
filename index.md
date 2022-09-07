@@ -11,7 +11,7 @@
          ·
          <span>
              <img src="envelope-solid.svg" width="18px">
-             zengdetian@nudt.edu.com
+             zengdetian93@gmail.com
          </span>
          ·
          <span>
