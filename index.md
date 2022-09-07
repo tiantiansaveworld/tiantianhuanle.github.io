@@ -11,7 +11,7 @@
          ·
          <span>
              <img src="envelope-solid.svg" width="18px">
-             zengdetian@nudt.edu.com
+             zengdetian93@gmail.com
          </span>
          ·
          <span>
@@ -29,15 +29,16 @@
 ## <img src="info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，1993 年出生
- - 研究方向：组合优化，强化学习，机器学习
- - 获得证书：计算机网络四级等级证书，CCF软件考试中级软件设计师，CET6等级证书；
-
+ - 研究方向：边缘计算，深度学习，机器学习
+ 
 ## <img src="graduation-cap-solid.svg" width="30px"> 教育经历
 - 博士生，国防科技大学，网络空间安全，2020.5~至今
 - 硕士，中南大学，信息与通信工程，2015.9~2018.7
 - 学士，广西大学，电子信息工程，2011.9~2015.7
 
 ## <img src="briefcase-solid.svg" width="30px"> 工作经历
+
+- **湖南人文科技学院，信息院，专任老师，2022.8.29~至今**
 
 - **湖南蚁坊软件公司，大数据研究院，研究员，2018.5~2019.12**
 
@@ -65,7 +66,14 @@
 - 曾德天，曾增日，詹俊. 基于深度强化学习种群优化的演化式作业调度算法[J]. 计算机应用研究, 2022, 4.已录用(CCF中文C类)	
 - Zeng D, Zhan J, Peng W and Zeng Z,Evolutionary Job Scheduling with Optimized Population by Deep Reinforcement Learning[J]. Engineering optimization, 2021.已录用（SCI二区，IF=3.2）
 - Deep evolutionary algorithm for large-scale sequence optimization(ICIEA 2022,Zeng D,Miao Q,已接收)（EI检索）
-- Zeng D, Peng W, Zeng Z and Yan T, A self-learning GA based on DQN for solving travelling salesman problem(Neural Computing and Applications, with editor)（SCI一区，IF=5.6，CCF英文C类）
+- Zeng D, Peng W, Zeng Z and Yan T, A self-learning GA based on DQN for solving travelling salesman problem[J]. Circuits, Systems, and Computers, Accepted.（SCI）
 
+## <img src="tools-solid.svg" width="30px"> 发明专利
+- 零件抓取数据处理方法和装置 - 202011133013.8 已授权（第一完成人）
 
+- 工件及其抓取方法和生产线 - 202010484931.9 审中-实审 （第一完成人）
+
+- 钢板角点与边点定位方法和工件抓取方法及生产线 - 202010486614.0 审中-实审 （第一完成人）
+
+- 基于深度强化学习的演化式分拣作业调度方法及系统 - 202111081728.8 审中-实审 （第一完成人）
 
