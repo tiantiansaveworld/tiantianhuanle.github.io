@@ -64,7 +64,7 @@
 
 ## <img src="tools-solid.svg" width="30px"> 学术成果
 
-- 邓晓衡, 曾德天. 基于AHP和混合Apriori-Genetic算法的交通事故成因分析模型[J]. 计算机应用研究, 2019, 36(06):1633-1638.(CCF中文C类)	
+- 邓晓衡, 曾德天. 基于AHP和混合Apriori-Genetic算法的交通事故成因分析模型[J]. 计算机应用研究, 2019, 36(06):1633-1638.(CSCD, CCF中文C类)	
 - Deng X, Zeng D, Shen H. Causation analysis model: Based on AHP and hybrid Apriori-Genetic algorithm[J]. Journal of Intelligent & Fuzzy Systems, 2018, 35(1): 767-778.（SCI Q3，IF=1.8）
 - Zeng D, Shi J, Zhan J, et al. A fast and global search method for grasping pose optimization in manufacturing[J]. Journal of Intelligent & Fuzzy Systems: Applications in Engineering and Technology, 2021(1):41.（SCI Q3，IF=1.8）
 - 曾德天，曾增日，詹俊. 基于深度强化学习种群优化的演化式作业调度算法[J]. 计算机应用研究, 2022, 4.已录用(CSCD, CCF中文C类推荐)	
