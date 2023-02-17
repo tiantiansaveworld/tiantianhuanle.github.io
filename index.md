@@ -64,13 +64,13 @@
 
 ## <img src="tools-solid.svg" width="30px"> 学术成果
 
-- 邓晓衡, 曾德天. 基于AHP和混合Apriori-Genetic算法的交通事故成因分析模型[J]. 计算机应用研究, 2019, 36(06):1633-1638.(CSCD, CCF中文C类)	
+- 邓晓衡, 曾德天. 基于AHP和混合Apriori-Genetic算法的交通事故成因分析模型[J]. 计算机应用研究, 2019, 36(06):1633-1638.(CSCD, CCF中文C类推荐)	
 - Deng X, Zeng D, Shen H. Causation analysis model: Based on AHP and hybrid Apriori-Genetic algorithm[J]. Journal of Intelligent & Fuzzy Systems, 2018, 35(1): 767-778.（SCI Q3，IF=1.8）
 - Zeng D, Shi J, Zhan J, et al. A fast and global search method for grasping pose optimization in manufacturing[J]. Journal of Intelligent & Fuzzy Systems: Applications in Engineering and Technology, 2021(1):41.（SCI Q3，IF=1.8）
-- 曾德天，曾增日，詹俊. 基于深度强化学习种群优化的演化式作业调度算法[J]. 计算机应用研究, 2022, 4.已录用(CSCD, CCF中文C类推荐)	
+- 曾德天, 曾增日, 詹俊. 基于深度强化学习种群优化的演化式分拣调度算法[J]. 计算机应用研究, 2022(003):039.(CSCD, CCF中文C类推荐)	
 - Zeng D, Zhan J, Peng W and Zeng Z. Evolutionary Job Scheduling with Optimized Population by Deep Reinforcement Learning[J]. Engineering optimization, 2023, 55(3):494-509.（SCI Q2，IF=3.2）
-- Detian Zeng, Gaofeng Zhu, Qiucheng Miao, Hao Liu. Deep evolutionary algorithm for large-scale sequence optimization(ICIEA 2022,Zeng D,Miao Q,已在线发表)（EI检索）
-- Zeng D, Yan T, Zeng Z, Liu H and Guan P. A Hyperparameter Adaptive Genetic Algorithm Based on DQN. Journal of Circuits, Systems and Computers. （SCI Q3，IF=1.4）
+- Detian Zeng, Gaofeng Zhu, Qiucheng Miao, Hao Liu. Deep evolutionary algorithm for large-scale sequence optimization.(ICIEA 2022,Zeng D,Miao Q,已在线发表)（EI检索）
+- Zeng D, Yan T, Zeng Z, Liu H and Guan P. A Hyperparameter Adaptive Genetic Algorithm Based on DQN. Journal of Circuits, Systems and Computers.（SCI Q3，IF=1.4）
 
 
 
