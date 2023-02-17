@@ -72,5 +72,10 @@
 - Detian Zeng, Gaofeng Zhu, Qiucheng Miao, Hao Liu. Deep evolutionary algorithm for large-scale sequence optimization.(ICIEA 2022,Zeng D,Miao Q,已在线发表)（EI检索）
 - Zeng D, Yan T, Zeng Z, Liu H and Guan P. A Hyperparameter Adaptive Genetic Algorithm Based on DQN. Journal of Circuits, Systems and Computers.（SCI Q3，IF=1.4）
 
+## <img src="tools-solid.svg" width="30px"> 发明专利
 
+- 零件抓取数据处理方法和装置 - 202011133013.8 已授权 （第一完成人）
+- 工件及其抓取方法和生产线 - 202010484931.9 审中-实审 （第一完成人）
+- 钢板角点与边点定位方法和工件抓取方法及生产线 - 202010486614.0 审中-实审 （第一完成人）
+- 基于深度强化学习的演化式分拣作业调度方法及系统 - 202111081728.8 审中-实审 （第一完成人）
 
