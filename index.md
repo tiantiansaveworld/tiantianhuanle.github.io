@@ -29,10 +29,9 @@
 ## <img src="info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，1993 年出生
- - 研究方向：组合优化，强化学习，机器学习
+ - 研究方向：计算机视觉，强化学习，机器学习
 
 ## <img src="graduation-cap-solid.svg" width="30px"> 教育经历
-- 博士生，国防科技大学，网络空间安全，2020.5~至今
 - 硕士，中南大学，信息与通信工程，2015.9~2018.7
 - 学士，广西大学，电子信息工程，2011.9~2015.7
 
@@ -44,6 +43,10 @@
    1.负责追踪NLP业界前沿技术动态；2.使用机器学习对亿级规模文本进行分类处理；3.国内主流社交平台验证码自动识别；
 
 ## <img src="project-diagram-solid.svg" width="30px"> 项目经历
+
+- **主持2022年度湖南省教育厅科研项目一般项目-2022.12-2024.12**
+
+   1.题目-面向智能制造的零部件预处理分拣线关键技术研究及应用；2.主要研究零件抓取位姿优化，提升抓取成功率与搜索时间开销；3.优化产线生产节拍；
 
 - **参加2020工信部重点研发项目-三一集团灯塔工程**
 
@@ -59,13 +62,14 @@
 
 ## <img src="tools-solid.svg" width="30px"> 学术成果
 
-- 邓晓衡, 曾德天. 基于AHP和混合Apriori-Genetic算法的交通事故成因分析模型[J]. 计算机应用研究, 2019, 36(06):1633-1638.(CCF中文C类)	
-- Deng X, Zeng D, Shen H. Causation analysis model: Based on AHP and hybrid Apriori-Genetic algorithm[J]. Journal of Intelligent & Fuzzy Systems, 2018, 35(1): 767-778.（SCI三区，IF=1.8）
-- Zeng D, Shi J, Zhan J, et al. A fast and global search method for grasping pose optimization in manufacturing[J]. Journal of Intelligent & Fuzzy Systems, 2021 (Preprint): 1-14.（SCI三区，IF=1.8）
-- 曾德天，曾增日，詹俊. 基于深度强化学习种群优化的演化式作业调度算法[J]. 计算机应用研究, 2022, 4.已录用(CCF中文C类)	
-- Zeng D, Zhan J, Peng W and Zeng Z,Evolutionary Job Scheduling with Optimized Population by Deep Reinforcement Learning[J]. Engineering optimization, 2021.已录用（SCI二区，IF=3.2）
-- Deep evolutionary algorithm for large-scale sequence optimization(ICIEA 2022,Zeng D,Miao Q,已接收)（EI检索）
-- Zeng D, Yan T, Zeng Z, et al. A Hyperparameter Adaptive Genetic Algorithm Based on DQN[J]. Circuits, Systems, and Computers, Accepted.（SCI）
+- 邓晓衡, 曾德天. 基于AHP和混合Apriori-Genetic算法的交通事故成因分析模型[J]. 计算机应用研究, 2019, 36(06):1633-1638.(CSCD, CCF中文C类推荐)	
+- Deng X, Zeng D, Shen H. Causation analysis model: Based on AHP and hybrid Apriori-Genetic algorithm[J]. Journal of Intelligent & Fuzzy Systems, 2018, 35(1): 767-778.（SCI Q3，IF=1.8）
+- Zeng D, Shi J, Zhan J, et al. A fast and global search method for grasping pose optimization in manufacturing[J]. Journal of Intelligent & Fuzzy Systems: Applications in Engineering and Technology, 2021(1):41.（SCI Q3，IF=1.8）
+- 曾德天, 曾增日, 詹俊. 基于深度强化学习种群优化的演化式分拣调度算法[J]. 计算机应用研究, 2022(003):039.(CSCD, CCF中文C类推荐)	
+- Zeng D, Zhan J, Peng W and Zeng Z. Evolutionary Job Scheduling with Optimized Population by Deep Reinforcement Learning[J]. Engineering optimization, 2023, 55(3):494-509.（SCI Q2，IF=3.2）
+- Detian Zeng, Gaofeng Zhu, Qiucheng Miao, Hao Liu. Deep evolutionary algorithm for large-scale sequence optimization.(ICIEA 2022,Zeng D,Miao Q,已在线发表)（EI检索）
+- Zeng D, Yan T, Zeng Z, Liu H and Guan P. A Hyperparameter Adaptive Genetic Algorithm Based on DQN[J]. Journal of Circuits, Systems and Computers, 2022: 2350062.（SCI Q3，IF=1.4）
+
 
 ## <img src="tools-solid.svg" width="30px"> 发明专利
 
